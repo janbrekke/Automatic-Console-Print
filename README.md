@@ -16,3 +16,6 @@ Remember to IMPORT "SYS" and "TIME"
 import sys
 import time
 ```
+
+# Screenshot
+![Alt text](https://www.digitalbrekke.com/res/consoleprint.gif "Example Text")
