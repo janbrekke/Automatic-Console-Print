@@ -10,3 +10,9 @@ EX: consoleprint("Hello GITHUB World..")
 
 The text will be printed as if it was typed by someone.
 Speed can also be changed.
+
+Remember to IMPORT "SYS" and "TIME"
+```
+import sys
+import time
+```
