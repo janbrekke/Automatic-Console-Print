@@ -1,6 +1,6 @@
 # Automatic-Console-Print
 This will make a function that can make it look like
-tekst are being typed into the console automatically.
+text are being typed into the console automatically.
 
 # Usage
 To make it work you need to add the definition somewhere into the top of your code.
